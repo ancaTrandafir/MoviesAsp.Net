@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "1",
+    "DateAdded": "06/03/2016 10:34:00",
+    "Description": "Fight between good and evil",
+    "Director": "Steven Spielberg",
+    "Duration": "120",
+    "Genre": "Adventure",
+    "Rating": "10",
+    "Title": "Stapanul inelelor",
+    "Watched": "True",
+    "YearOfRelease": "2010"
+  },
+  {
+    "ID": "3",
+    "DateAdded": "05/02/2016 00:00:00",
+    "Description": "Fight between good and evil",
+    "Director": "Steven Spielberg",
+    "Duration": "120",
+    "Genre": "Adventure",
+    "Rating": "10",
+    "Title": "Star Wars",
+    "Watched": "True",
+    "YearOfRelease": "1985"
+  },
+  {
+    "ID": "4",
+    "DateAdded": "03/02/2016 00:00:00",
+    "Description": "Fight between good and evil",
+    "Director": "Steven Spielberg",
+    "Duration": "120",
+    "Genre": "Adventure",
+    "Rating": "10",
+    "Title": "Avengers",
+    "Watched": "True",
+    "YearOfRelease": "2018"
+  }
+]
